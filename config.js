@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Mindy!!!!!!!!!!! (CLICK THE PLAY MUSIC BUTTON IN TOP RIGHT)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -22,35 +22,35 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "(also ignore the 'my love' part that's cringe mb idk how to take it out the code) anyways->Do you like me?",                                    // First interaction
+            yesBtn: "Yes cuhhhhh",                                             // Text for "Yes" button
+            noBtn: "No kys",                                               // Text for "No" button
+            secretAnswer: "I don't like you, I love you! (took u long enough😛) OK FINALLY GOOD JOB, i would've been a bit dissapointed if you had missed this ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "How much do you love me type shit?",                          // For the love meter
+            startText: "This much betttttt!",                                   // Text before the percentage
+            nextBtn: "Next cuhhhhhhh❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "Will You Be THE PRINCESS TO MY 100% WIN RATE LOG BAIT DECK, the JOOYOUNG TO MY JAEJIN and be my Valentine????????? 💝🌹", // The big question!
+            yesBtn: "Yes let's leave inferno and go to paradise yuhhhhhh!",                                             // Text for "Yes" button
+            noBtn: "No kys again buddy"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me that much?? betttttt say less u finally reached it🥰🚀💝",  // Shows when they go past 5000%
+        high: "To infinity and beyond! uhhhhh ok better ig 🚀💝",              // Shows when they go past 1000%
+        normal: "And beyond! can u lock in  🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Yay! I'm the luckiest person in the world! mb if that's not obv i'm too nonchalant twin) 🎉💝💖💝💓",
+        message: "Now come get your gift, a big nice L in Mega Draft! YAYYY (+FESTIVITIES ON SATURDAY OFC OFC)",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dcndgj1uz/video/upload/v1770581971/New_Menu_01_ebg4kr.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
