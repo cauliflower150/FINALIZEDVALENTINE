@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737132/Screenshot_2026-02-10_at_10.19.39_AM_q8r4hw.png" style="width:30px;" />'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.20.47_AM_x9nygj.png" style="width:300px;" />', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.19.42_AM_bwlacp.png" style="width:300px;" />', '💓', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737132/Screenshot_2026-02-10_at_10.19.39_AM_q8r4hw.png" style="width:30px;" />'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "(so highkkkkkkk->Do you like me?",                                    // First interaction
+            text: "(so highkkkkkkk->Do you like me? (did you click the play music button??? top right corner)",                                    // First interaction
             yesBtn: "Yes cuhhhhh",                                             // Text for "Yes" button
             noBtn: "No kys",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! (took u long enough😛) OK FINALLY GOOD JOB, i would've been a bit dissapointed if you had missed this ❤️"           // Secret hover message
@@ -79,9 +79,9 @@ const CONFIG = {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
         musicUrl: "https://res.cloudinary.com/dcndgj1uz/video/upload/v1770740109/mindytoad_ixnwoa.m4a", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
+        startText: "🎵 Play Music BETTTTTTTTTTTTT",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 0.5                        // Volume level (0.0 to 1.0)
+        volume: 1.0                        // Volume level (0.0 to 1.0)
     }
 };
 
