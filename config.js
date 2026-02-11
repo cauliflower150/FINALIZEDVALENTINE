@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.20.47_AM_x9nygj.png" style="width:300px;" />', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.19.42_AM_bwlacp.png" style="width:300px;" />', '💓', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737132/Screenshot_2026-02-10_at_10.19.39_AM_q8r4hw.png" style="width:30px;" />'],  // Heart emojis
+        hearts: ['❤️', '💖', '💝', '💗', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.20.47_AM_x9nygj.png" style="width:150px;" />', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737131/Screenshot_2026-02-10_at_10.19.42_AM_bwlacp.png" style="width:150px;" />', '💓', '<img src="https://res.cloudinary.com/dcndgj1uz/image/upload/v1770737132/Screenshot_2026-02-10_at_10.19.39_AM_q8r4hw.png" style="width:30px;" />'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
